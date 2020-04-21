@@ -6,3 +6,7 @@ def using_concat (array1, array2)
   return concated_array;
 end
 
+def using_insert (array, element)
+  array.insert[4]
+end
+
